@@ -9,5 +9,5 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
-
+inspired by. [Bedimcode](https://www.youtube.com/@Bedimcode)
 ![travel-website](/preview.png)
